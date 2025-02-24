@@ -1,11 +1,7 @@
 
-# Lucy_MD
-A MULTI DEVICE BOT MADE BY ROMEO BW III
-
-<h1> **🧚‍♀️Lucy_MD**</h1>
-
-
-</p> <p align="center">
+<h1># Lucy_MD<h1>
+<h1>A MULTI DEVICE BOT MADE BY ROMEO BW III<h1>
+h</p> <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F20C39F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=Lucy+MD;MADE+BY+ROMEO +BW+III" alt="Typing SVG" 
 ---
 1. Fork The Repo
