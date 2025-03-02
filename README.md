@@ -172,37 +172,6 @@ You can place this section right after the *Usage Examples* or *Installation* se
 Pulse Bot is easily deployable across various platforms. Whether you prefer hosting on your local machine, using cloud services such as *Heroku*, *AWS*, *Google Cloud*, or *Render*, Pulse Bot adapts to all platforms. It offers a smooth experience from deployment to usage.
 
 ---
-font-family: 'Courier New', Courier, monospace;
-            color: #4CAF50;
-            display: inline;
-        }
-    </style>
-</head>
-<body>
 
 <h1>Thank You for Reading!</h1>
-<p class="typing-effect" id="auto-type">Thank you so much for taking the time to read through the Pulse Bot README! Your support is what keeps this project alive and growing. Enjoy using Pulse Bot and feel free to reach out if you have any questions or suggestions!</p>
 
-<script>
-    function typeWriter(elementId, text, speed) {
-        let i = 0;
-        const element = document.getElementById(elementId);
-        function type() {
-            if (i < text.length) {
-                element.innerHTML += text.charAt(i);
-                i++;
-                setTimeout(type, speed);
-            }
-        }
-        type();
-    }
-
-    const message = "Thank you so much for taking the time to read through the Pulse Bot README! Your support is what keeps this project alive and growing. Enjoy using Pulse Bot and feel free to reach out if you have any questions or suggestions!";
-    typeWriter("auto-type", message, 50);  // Adjust speed here (lower = faster)
-</script>
-
-</body>
-</html>
-```
-
-:
