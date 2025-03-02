@@ -113,3 +113,16 @@ Customizing the README
 
 ---
 
+---
+
+Contact Details
+
+Pulse Bot is created and maintained by *Romeo Bwiii*. If you have any questions or would like to get in touch, feel free to contact through the following channels:
+
+- *YouTube:* [@romeobwiii](https://www.youtube.com/c/romeobwiii)
+- *WhatsApp:* [+26776660902](https://wa.me/+26776660902)
+- *GitHub:* [romeobwiii](https://github.com/romeobwiii)
+- *WhatsApp Channel:* [Pulse Bot WhatsApp Channel](https://whatsapp.com/channel/0029Vb6uA207NoZw7KMaqk2p)
+
+---
+
