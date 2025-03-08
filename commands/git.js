@@ -34,23 +34,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *ENZO MD IMPORTANT INFO* 
+   *ROMEO MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/ENZOTECH2/ENZO-MD
+> https://github.com/romeobwiii/ROMEO-MD
 
 *WHATSAPP GROUP*
-> https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D
+> https://whatsapp.com/channel/0029Vb6uA207NoZw7KMaqk2p
 ⁠
 ╭───────────────────❒
 │🎩⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│💓 *DEV1* : *ENZO TECH*
-│Ⓜ️⁠⁠⁠⁠ *DEV2* : *ENZO*
+│💓 *DEV1* : *Romeo md*
+│Ⓜ️⁠⁠⁠⁠ *DEV2* : *Njabulo-Jb*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *❎ENZO TECH*
+     *❎romeo md*
 
 ❒────────────────────❒`;
 
