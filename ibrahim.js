@@ -131,7 +131,7 @@ function getCurrentDateTime() {
 setInterval(async () => {
     if (conf.AUTO_BIO === "yes") {
         const currentDateTime = getCurrentDateTime(); // Get the current date and time
-        const bioText = `CRISS MD BOT is online!\n${currentDateTime}`; // Format the bio text
+        const bioText = `ROMEO MD BOT is online!\n${currentDateTime}`; // Format the bio text
         await zk.updateProfileStatus(bioText); // Update the bio
         console.log(`Updated Bio: ${bioText}`); // Log the updated bio
     }
@@ -258,7 +258,7 @@ if (conf.AUTO_REACT_STATUS === "yes") {
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\tCRISS VEVO");
+            console.log("\tROMEO MD");
             console.log("=========== written message===========");
             if (verifGroupe) {
                 console.log("message provenant du groupe : " + nomGroupe);
@@ -762,7 +762,7 @@ zk.ev.on('group-participants.update', async (group) => {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `*CRISS-XBOT MD WELCOME MESSAGE*`;
+            let msg = `*ROMEO-MD WELCOME MESSAGE*`;
             let membres = group.participants;
             for (let membre of membres) {
                 msg += ` \n❒ *Hey* 🖐️ @${membre.split("@")[0]} WELCOME TO OUR GROUP. \n\n`;
@@ -896,10 +896,10 @@ zk.ev.on('group-participants.update', async (group) => {
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ CRISS VEVO is connecting...");
+                console.log("ℹ️ ROMEO MD is connecting...");
             }
             else if (connection === 'open') {
-                console.log("✅ CRISS VEVO Connected to WhatsApp! ☺️");
+                console.log("✅ ROMEO MD Connected to WhatsApp! ☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
@@ -907,7 +907,7 @@ zk.ev.on('group-participants.update', async (group) => {
                 console.log("------------------/-----");
                 console.log("CRISS VEVO is Online 🕸\n\n");
                 //chargement des commandes 
-                console.log("Loading CRISS VEVO Commands ...\n");
+                console.log("Loading ROMEO MD Commands ...\n");
                 fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
@@ -940,13 +940,12 @@ zk.ev.on('group-participants.update', async (group) => {
 
                 let cmsg =` ⁠⁠⁠⁠
 ╭─────────────━┈⊷ 
-│🌏 *CRISS VEVO CONNECTED*
+│🌏 *ROMEO MD CONNECTED*
 ╰─────────────━┈⊷
 │💫 ᴘʀᴇғɪx: *[ ${prefixe} ]*
 │⭕ ᴍᴏᴅᴇ: *${md}*
 │
-│FOLLOW MY CHANNEL FOR UPDATES
-│https://whatsapp.com/channel/0029Vb0HIV2G3R3s2II4181g
+│MADE BY ROMEO BW🇧🇼
 ╰─────────────━┈⊷
 
                 
