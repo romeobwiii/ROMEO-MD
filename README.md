@@ -1,4 +1,17 @@
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
+
+
+<p align="center">                                                  𝐂𝐑𝐈𝐒𝐒 𝐕𝐄𝐕𝐎-𝐌𝐃 
+  
+
+</p>
+<p align="center"> 
+  <a href="https://whatsapp.com/channel/0029Vb0HIV2G3R3s2II4181g">
+    <img alt=Support height="390" src="https://i.ibb.co/q34X5Dyt/subzero-bot.jpg"> 
+    </p>
+ 
 
 #### DEPLOY TO HEROKU 
 `If You Don't Have An Account On Heroku`
