@@ -1,7 +1,7 @@
 {
   "name": "PULSE-MD",
   "description": "WOLRD BEST MD WHATSAPP BOT",
-  "logo": "https://i.imgur.com/vzDwkjg.jpeg",
+  "logo": "https://files.catbox.moe/rrz7rs.jpeg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "ALIVE URL.",
       "required": true,
-      "value": "https://i.imgur.com/vzDwkjg.jpeg"
+      "value": "https://files.catbox.moe/rrz7rs.jpeg"
     }, 
     
     "ALIVE_MSG": {
