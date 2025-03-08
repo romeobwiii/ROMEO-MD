@@ -1,9 +1,9 @@
 {
-  "name":"ENZO",
-  "description":"Best whatsapp bot developed by ENZO",
+  "name":"ROMEO-MD",
+  "description":"Best whatsapp bot developed by njabulo",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.ibb.co/hYF7XQw/IMG-20241019-WA0222.jpg",
-  "repository":"https://github.com/ENZOTECH2/ENZO-MD",
+  "logo":"https://i.ibb.co/q34X5Dyt/subzero-bot.jpg",
+  "repository":"https://github.com/romeobwiii/ROMEO-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝐄𝐍𝐙𝐎 𝐌𝐃",
+      "value":"ROMEO MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.ibb.co/qMvsxL8/1680858151-752-x-1584.jpg",
+      "value":"https://i.ibb.co/q34X5Dyt/subzero-bot.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐄𝐍𝐙𝐎 𝐓𝐄𝐂𝐇"
+    "value": "ROMEO MD"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254784115308"
+    "value": "267 76 660 902"
   },
     "WARN_COUNT":
   {
