@@ -1,3 +1,11 @@
+<img 
+    src="https://files.catbox.moe/i9ki8h.jpeg" 
+    alt="Index Image" 
+    style="width:100%; 
+           border: 5px solid #4CAF50; /* Green border */ 
+           border-radius: 15px; /* Rounded corners */ 
+           box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Shadow effect */ 
+           background-color: #f0f0f0; /* Light gray background color */">
 
 ---
 
