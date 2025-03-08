@@ -35,18 +35,18 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-     *ENZO MD IMPORTANT INFO* 
+     *ROMEO MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/ENZOTECH2/ENZO-MD
+> https://whatsapp.com/channel/0029Vb6uA207NoZw7KMaqk2p
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D
+> https://whatsapp.com/channel/0029Vb6uA207NoZw7KMaqk2p
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *ENZO*
-│❒⁠⁠⁠⁠ *DEV2* : *ENZO TECH*
+│❒⁠⁠⁠⁠ *DEV1* : *ROMEO*
+│❒⁠⁠⁠⁠ *DEV2* : *NJABULO JB*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
