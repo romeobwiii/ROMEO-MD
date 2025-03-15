@@ -1,5 +1,5 @@
 
-<a><img src='https://files.catbox.moe/yygfeo.jpg'/></a><a><img src='https://files.catbox.moe/yygfeo.jpg'/></a>
+<a><img src='https://files.catbox.moe/yygfeo.jpg'/></a>
   
 
 
@@ -9,7 +9,7 @@
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029Vb6uA207NoZw7KMaqk2p">
-    <img alt=Support height="390" src="https://i.ibb.co/q34X5Dyt/subzero-bot.jpg"> 
+    <img alt=Support height="390" src="https://files.catbox.moe/yygfeo.jpg"> 
     </p>
  
 
