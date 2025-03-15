@@ -1,9 +1,5 @@
 
-<a><img src='https://files.catbox.moe/yygfeo.jpg'/></a>
-  
-
-
-<p align="center">                                                  ROMEO BW III
+                                                 ROMEO MD
   
 
 </p>
