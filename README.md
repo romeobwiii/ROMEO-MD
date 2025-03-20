@@ -1,4 +1,4 @@
-<h1> ROMEO MD <img src="https://files.catbox.moe/q4k4ft.jpg.gif" width="50"> </h1><h1> ROMEO MD <img src="https://files.catbox.moe/q4k4ft.jpg.gif" width="50"> </h1<h1> ROMEO MD <img src="https://files.catbox.moe/q4k4ft.jpg.gif" width="50"> </h1>
+<h1> ROMEO MD <img src="https://files.catbox.moe/q4k4ft.jpg.gif" width="50"> </h1>
 
 <br>
 
