@@ -3,7 +3,7 @@
 <br>
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=ROMEO%20MD&description=A%20BEST%20AND%20FASTEST%20WHATSAPP%20BOT%20BY%20UD%20TEAM&image=https://files.catbox.moe/k6jpr3.jpg?v=4&backgroundColor=%23ecf0f1&github=Um4r719&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=ROMEO%20MD&description=A%20BEST%20AND%20FASTEST%20WHATSAPP%20BOT%20BY%20ROMEO%20BW&image=https://files.catbox.moe/k6jpr3.jpg?v=4&backgroundColor=%23ecf0f1&github=Um4r719&pattern=leaf&colorPattern=%23eaeaea"/>
 
 </p> <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F20C39F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=ROMEO+MD;MADE+BY+ROMEO+BW+III" alt="Typing SVG" 
