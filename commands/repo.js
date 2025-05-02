@@ -38,10 +38,10 @@ const date = moment().format('DD/MM/YYYY');
      *ROMEO MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://whatsapp.com/channel/0029Vb6uA207NoZw7KMaqk2p
+> https://github.com/romeobwiii/ROMEO-MD
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029Vb6uA207NoZw7KMaqk2p
+> https://whatsapp.com/channel/0029Vb5Tm5E6rsQnV4DIRO3z
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
