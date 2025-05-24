@@ -38,7 +38,7 @@ src="https://cardivo.vercel.app/api?name=ROMEO%20MD&description=A%20BEST%20AND%2
 ### ⚡ **Connect With Me** <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 <p align="center">
   <a href="https://wa.me/26776660902"><img src="https://img.shields.io/badge/Contact Romeo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://whatsapp.com/channel/0029Vb6uA207NoZw7KMaqk2p"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://whatsapp.com/channel/0029Vb5Tm5E6rsQnV4DIRO3z"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://t.me/romeo_bw_III"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
