@@ -1,133 +1,124 @@
+
 {
-  "name":"ROMEO MD",
-  "description":"Whatsapp bot developed by Mulax",
-  "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.ibb.co/jyzsBZG/0b3f2531c2c10a93.jpg",
-  "repository":"https://github.com/romeobwiii/ROMEO-MD",
-  "succes_url":"/",
-  "stack":"container",
-  "env":{
-    "PREFIX":
-    {
-      "description":"choose your prefix for the bot",
-      "value":".",
-      "required":true
-    },
-    "AUTO_READ_STATUS":
-    {
-      "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
-      "value":"yes",
-      "required":false
-    }, 
-    "AUTO_DOWNLOAD_STATUS":
-    {
-      "description":"Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
-      "value":"no",
-      "required":false
-    },
-    "AUTO_LIKE_STATUS":
-    {
-      "description":"Automatically like status updates (type yes to active or no to deactive ; don't write in capital letter)",
-      "value":"yes",
-      "required":false
-    },
-    "PM_PERMIT" :
-    {
-      "description":"Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
-      "value":"no",
-      "required":false
-    },
-    "BOT_NAME" : {
-      "description":"put A name for your bot",
-      "value":"Tox md",
-      "required":false
-    },
-    "AUTO_READ_MESSAGES" : {
-      "description":"to automatically blue tick messages",
-      "value":"no",
-      "required":false
-    },
-    "BOT_MENU_LINKS" : {
-      "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.ibb.co/QvzCRjHQ/1c5d0e2ade058b6b.jpg",
-      "required":false
-    },
-    "PUBLIC_MODE":
-    {
-      "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
-      "required":false
-    },
-    "HEROKU_API_KEY": {
-      "description": "insert your heroku api-key (this is optionnal)",
-      "required" :false
-    },
-    "HEROKU_APP_NAME": {
-      "description": "insert your heroku APP NAME (this is optionnal)",
-      "required" :false
-    },
-    "SESSION_ID":
-    {
-      "description":"put your session ID , the code you receive after scanning Qr code",   
-      "value":"",
-      "required":true
-    },
-    "OWNER_NAME":
-    {
-      "desc": "Your Name",
-      "required": false,
-      "value": "Njabulo Jb"
-    },
-    "NUMERO_OWNER":
-    {
-      "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
-      "required":false,
-      "value": "26777821911"
-    },
-    "WARN_COUNT":
-    {
-      "desc": "this is the limit of warn for warning commandes",
-      "required": false,
-      "value": "3"
-    },
-    "STARTING_BOT_MESSAGE":
-    {
-      "description": "if you don't want startting-bot-message put no else put yes",
-      "required": true,
-      "value": "yes"
-    },
-    "PRESENCE":{
-      "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-      "value":"",
-      "required": false
-    },
-    "ANTI_DELETE_MESSAGE" : {
-      "description": "if you want to enable anti delete message put yes else put no",
+  "name": "ROMEO MD",
+  "description": "WhatsApp bot developed by Mulax",
+  "keywords": ["bot", "node", "baileys", "whatsapp"],
+  "logo": "https://i.ibb.co/jyzsBZG/0b3f2531c2c10a93.jpg",
+  "repository": "https://github.com/romeobwiii/ROMEO-MD",
+  "success_url": "/",
+  "stack": "container",
+  "env": {
+    "PREFIX": {
+      "description": "Choose your prefix for the bot",
+      "value": ".",
+      "required": true
+},
+    "AUTO_READ_STATUS": {
+      "description": "Your contact status will be read automatically (type yes to activate or no to deactivate; don't write in capital letters)",
       "value": "yes",
       "required": false
-    }
-  },
-
+},
+    "AUTO_DOWNLOAD_STATUS": {
+      "description": "Your contact status will be downloaded automatically and sent to you (type yes to activate or no to deactivate; don't write in capital letters)",
+      "value": "no",
+      "required": false
+},
+    "AUTO_LIKE_STATUS": {
+      "description": "Automatically like status updates (type yes to activate or no to deactivate; don't write in capital letters)",
+      "value": "yes",
+      "required": false
+},
+    "PM_PERMIT": {
+      "description": "Other users can't use your bot in PM (type yes to activate or no to deactivate; don't write in capital letters)",
+      "value": "no",
+      "required": false
+},
+    "BOT_NAME": {
+      "description": "Put a name for your bot",
+      "value": "Tox MD",
+      "required": false
+},
+    "AUTO_READ_MESSAGES": {
+      "description": "Automatically blue-tick messages",
+      "value": "no",
+      "required": false
+},
+    "BOT_MENU_LINKS": {
+      "description": "Add one or multiple links for your bot menu; e.g., url1,url2,url3...",
+      "value": "https://i.ibb.co/QvzCRjHQ/1c5d0e2ade058b6b.jpg",
+      "required": false
+},
+    "PUBLIC_MODE": {
+      "description": "Type yes to put your bot in public mode or no for private mode",
+      "value": "yes",
+      "required": false
+},
+    "HEROKU_API_KEY": {
+      "description": "Insert your Heroku API key (this is optional)",
+      "required": false
+},
+    "HEROKU_APP_NAME": {
+      "description": "Insert your Heroku APP NAME (this is optional)",
+      "required": false
+},
+    "SESSION_ID": {
+      "description": "Put your session ID, the code you receive after scanning QR code",
+      "value": "",
+      "required": true
+},
+    "OWNER_NAME": {
+      "description": "Your name",
+      "required": false,
+      "value": "mulax"
+},
+    "NUMERO_OWNER": {
+      "description": "Your number, don't put '+' and include your country code (e.g., for Botswana: '267')",
+      "required": false,
+      "value": "26776660902"
+},
+    "WARN_COUNT": {
+      "description": "The limit for warnings before action is taken",
+      "required": false,
+      "value": "3"
+},
+    "STARTING_BOT_MESSAGE": {
+      "description": "If you don't want a starting-bot-message, put 'no'; otherwise, put 'yes'",
+      "required": true,
+      "value": "yes"
+},
+    "PRESENCE": {
+      "description": "Mark your presence: 1 = Online, 2 = Typing, 3 = Recording audio, or leave blank for real status",
+      "value": "",
+      "required": false
+},
+    "ANTI_DELETE_MESSAGE": {
+      "description": "If you want to enable anti-delete message, put 'yes'; otherwise, put 'no'",
+      "value": "yes",
+      "required": false
+}
+},
   "buildpacks": [
     {
       "url": "heroku/nodejs"
-    },
+},
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-    },
+},
     {
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-    }
+}
   ],
   "formation": {
     "worker": {
       "quantity": 1,
       "size": "standard-2x"
-    }
-  },
+}
+},
   "addons": [
     {
       "plan": "heroku-postgresql:essential-0"
-    }
+}
   ]
 }
+
+    
